@@ -1,0 +1,5 @@
+{
+  "name": "CyberOrchestra",
+  "description": "Multi-Agent AI Framework for Policy-Compliant Cybersecurity Incident Response. SOC command center for AI-driven threat detection, analysis, and recovery.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
